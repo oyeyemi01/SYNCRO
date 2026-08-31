@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1237-v2-subscription-renewal-decompose-the-268-line",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1237-v2-subscription-renewal-decompose-the-268-line": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1237-v2-subscription-renewal-decompose-the-268-line",
+    "origin"
+  ]
+}
